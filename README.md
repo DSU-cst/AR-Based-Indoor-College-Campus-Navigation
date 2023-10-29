@@ -63,9 +63,11 @@ Visual markers are helpful for ensuring IPS (indoor positioning system) accuracy
 
 iii) **Visualization** - Visualization is about presenting information to the user in an understandable and intuitive manner, combining the digital and physical worlds.
 
-● AR Rendering: Use AR Foundation to render AR content, such as directional lines, blips, or labels, in the user's view based on their position and the target location.
-● Minimap Display: Create a minimap that shows an overview of the indoor environment and indicates the user's position and the target location as blips.
-● UI Elements: Design and display user interface elements for start and target selection, navigation controls, and any feedback.
+● AR Rendering: We use AR Foundation to render AR content, such as directional lines, blips, or labels, in the user's view based on their position and the target location.
+
+● Minimap Display: Created a minimap that shows an overview of the indoor environment and indicates the user's position and the target location as blips.
+
+● UI Elements: Design and display user interface elements for start and target selection, navigation controls.
 
 In this visualization stage, we provide the user with an AR-enhanced view that guides them from the start point to the target point, incorporating elements like directional lines, minimaps, and user interface components.
 
