@@ -75,6 +75,57 @@ In this visualization stage, we provide the user with an AR-enhanced view that g
 
 ![IndoorNavArchitectureDiagram](https://github.com/CapstoneProjectDSU/Augmented-Reality-Based-indoor-College-Campus-Navigation/assets/149241928/a9fd980d-4d0f-4649-a1ea-e2a14903ccd3)
 
+### Unity Game Engine
+
+**We used a basic house floor map to test this demo**
+
+<img src="https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/b0866778-be36-44a7-b839-dc69e6c674b6" width="450" height="400">
+<br></br>
+
+**The floor map was converted into 3D Model Environment using 3D Objects such as Floor and Walls**
+
+![Screenshot 2023-10-27 224239](https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/3b66a038-0c60-4a0f-9fb0-5da26f72f8ec)
+![Screenshot 2023-10-28 113305](https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/1c196c1c-ad61-4f48-b564-453f12593901)
+
+
+**The walls are occluded so that it doesnt appear in our AR Cam and stays invisible**
+
+![Screenshot 2023-10-28 113456](https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/3c1015c7-afd3-462b-a207-9dfe4ee46acc)
+
+
+**Nav Mesh - The Nav Bake agent helps in detecting the open area (traversable path) inside the floor map**
+
+![Screenshot 2023-10-27 225843](https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/ebcde5a8-5e2b-4cda-ad89-7e3713bef0e5)
+
+**The mini map blip is rendered with help of a top down camera**
+
+![Screenshot 2023-10-27 233629](https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/9f22070e-b1d7-4c1b-9ffc-17b5510531c3)
+
+### To Build and Run the apk in Andriod Phone
+
+Step 1 - Connect the andriod phone using the usb cable to the laptop.
+Step 2 - Activate developer mode in andriod and turn on USB Debugging.
+Step 3 - This will create a wired connection to our laptop and the device will be detected by unity
+Step 4 - Since we need a wireless connection to navigate. We can you the following commands in the terminal to connect the phone wirelessly
+
+![Screenshot 2023-10-28 150257](https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/f5db0749-baf8-4826-882d-41400d19da4c)
+
+## Frameworks and Packages used 
+
+1. AR Foundation
+2. AR Core
+3. AI Navigation
+4. AR Session
+5. XR Origin
+
+## Software Requirements
+
+1. Unity Hub and Editor 2023.15
+2. Java JDK 11.0.14.1 or above
+3. Andriod SDK Tools
+4. Andriod NDK 23.1.7779620
+5. Gradle 7.3.3 or above
+
 
 
 
