@@ -113,6 +113,11 @@ Step 4 - Since we need a wireless connection to navigate. We can you the followi
 
 ![Screenshot 2023-10-28 150257](https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/f5db0749-baf8-4826-882d-41400d19da4c)
 
+### Output Screen
+
+https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/6c63133d-6838-4f5c-b788-7392f996de6f
+
+
 ## Frameworks and Packages used 
 
 1. AR Foundation
@@ -128,6 +133,7 @@ Step 4 - Since we need a wireless connection to navigate. We can you the followi
 3. Andriod SDK Tools
 4. Andriod NDK 23.1.7779620
 5. Gradle 7.3.3 or above
+
 
 
 
