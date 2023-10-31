@@ -104,8 +104,11 @@ In this visualization stage, we provide the user with an AR-enhanced view that g
 ### To Build and Run the apk in Andriod Phone
 
 Step 1 - Connect the andriod phone using the usb cable to the laptop.
+
 Step 2 - Activate developer mode in andriod and turn on USB Debugging.
-Step 3 - This will create a wired connection to our laptop and the device will be detected by unity
+
+Step 3 - This will create a wired connection to our laptop and the device will be detected by unity.
+
 Step 4 - Since we need a wireless connection to navigate. We can you the following commands in the terminal to connect the phone wirelessly
 
 ![Screenshot 2023-10-28 150257](https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/f5db0749-baf8-4826-882d-41400d19da4c)
