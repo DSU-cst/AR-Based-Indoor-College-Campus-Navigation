@@ -115,7 +115,15 @@ Step 4 - Since we need a wireless connection to navigate. We can you the followi
 
 ### Output Screen
 
-https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/6c63133d-6838-4f5c-b788-7392f996de6f
+
+
+https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/04aacb6d-0c0b-49cf-8fed-3dc6d322496e
+
+
+
+https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/8aecf599-9d80-4282-89bc-7a4254d96ef2
+
+
 
 
 ## Frameworks and Packages used 
@@ -125,6 +133,7 @@ https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/1492
 3. AI Navigation
 4. AR Session
 5. XR Origin
+6. ZXing.Net.0.16.8.0
 
 ## Software Requirements
 
