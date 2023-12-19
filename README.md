@@ -31,6 +31,9 @@ ARCore for real-time AR guidance.
 The following link contains the Literature survey's of few research papers related to this project - 
 https://docs.google.com/document/d/1QqfRV16re0NvfmY8iGACqnWsCJHELwkcPTNeZt0ApgU/edit?usp=sharing
 
+<img src="https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/efd4fdd3-534d-4326-bd7e-4ee533d24b95" width="320" height="500">
+<br></br>
+
 ## Design
 
 There are three stages in this project
