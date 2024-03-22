@@ -78,11 +78,24 @@ In this visualization stage, we provide the user with an AR-enhanced view that g
 
 ![IndoorNavArchitectureDiagram](https://github.com/CapstoneProjectDSU/Augmented-Reality-Based-indoor-College-Campus-Navigation/assets/149241928/a9fd980d-4d0f-4649-a1ea-e2a14903ccd3)
 
+# App Overview
+
+● The app helps in providing AR Based Navigation for the Campus.
+● It provides you with the Shortest path to your destination.
+● Features QR Code Recentering which helps in accurate reposition of User Start Point.
+● You can toggle line visibility and also Adjust the line height.
+● Built with AR Core and XR Origin which helps in AR Motion tracking of the user movement.
+
+![FeaturesShowcase](https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/7ff54842-91b3-4e26-93a3-834203b1c762)
+
+
+
+
 ### Unity Game Engine
 
-**We used a basic house floor map to test this demo**
+**Campus Floor Map Model and App UI**
 
-<img src="https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/b0866778-be36-44a7-b839-dc69e6c674b6" width="450" height="400">
+<img src="https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/4c1e010c-6bb6-4486-80fb-604d74f92c89" width="900" height="500">
 <br></br>
 
 **The floor map was converted into 3D Model Environment using 3D Objects such as Floor and Walls**
