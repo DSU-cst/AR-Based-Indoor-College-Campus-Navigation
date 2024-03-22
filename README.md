@@ -81,10 +81,15 @@ In this visualization stage, we provide the user with an AR-enhanced view that g
 # App Overview
 
 ● The app helps in providing AR Based Navigation for the Campus.
+
 ● It provides you with the Shortest path to your destination.
+
 ● Features QR Code Recentering which helps in accurate reposition of User Start Point.
+
 ● You can toggle line visibility and also Adjust the line height.
+
 ● Built with AR Core and XR Origin which helps in AR Motion tracking of the user movement.
+
 
 ![FeaturesShowcase](https://github.com/DSU-cst/AR-Based-Indoor-College-Campus-Navigation/assets/149241928/7ff54842-91b3-4e26-93a3-834203b1c762)
 
