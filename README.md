@@ -35,6 +35,10 @@ ARCore for real-time AR guidance.
 
 ● Work on Automating Switching between floors.
 
+DEMO
+https://drive.google.com/file/d/1B2-8Cle-puHzyLFyF4TKFIU4lam_t-8x/view?usp=sharing
+https://drive.google.com/file/d/1m06XlJSwsNdr6q3A0fEw_5qdlNmrp7jf/view?usp=sharing
+
 ### Literature Survey
 
 The following link contains the Literature survey's of few research papers related to this project - 
