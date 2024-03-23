@@ -26,6 +26,15 @@ ARCore for real-time AR guidance.
 
 ● Users will have the option to choose their desired destination within the campus, and they will receive AR-based navigation to enhance their visual user experience.
 
+## Complete Plan
+● Build the Floor Map models for all the Three Floors in B Block, Which makes it a complete AR Navigation App for Campus B Block 
+
+● Add Features such as switching between floors, multiple target destination mapped, toggle line visibility, line height adjust
+
+● Desing for various rooms target indicators and floor mini map detailing.
+
+● Work on Automating Switching between floors.
+
 ### Literature Survey
 
 The following link contains the Literature survey's of few research papers related to this project - 
